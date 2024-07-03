@@ -1,0 +1,7 @@
+ansible_ssh_pass: senha
+ansiblw_host: 192.168.1.*
+
+#variaveis do banco de dados
+db_name: employee_db
+db_user: db_user
+db_password: Passw0rd
