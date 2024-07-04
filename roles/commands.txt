@@ -1,0 +1,5 @@
+# criar estrutura de roles automaticamente
+ansible-galaxy init mysql_db (nome da role)
+
+# pesquisar alguma roles em galaxy community
+ansible-galaxy search nome_role
